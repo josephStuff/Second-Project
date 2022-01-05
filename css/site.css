@@ -1,0 +1,31 @@
+.heroImage {
+    max-width: 10px;
+}
+
+.heroPic {
+    max-width: 150px;
+}
+
+.oddRow {
+    background-color: #454545;
+}
+
+.evenRow {
+    background-color: #468153;
+    color: #753;
+}
+
+.heroText {
+    font-family: 'Bangers', cursive;
+    font-size: 4em;
+    margin: 0;
+    text-transform: uppercase;
+    color: red;
+    text-shadow: 2px 1px #292929;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: yellow;
+}
+
+.polarisPic {
+    max-width: 120px;
+}
